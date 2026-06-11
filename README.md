@@ -2,7 +2,7 @@
 
 ## Overivew
 Fast, light, low-cost RC car built with ESP01.
-Read more about it on my [e-portfolio]([(https://jhu.digication.com/caleb-tenney/project-c/published)])
+Read more about it on my [e-portfolio](https://jhu.digication.com/caleb-tenney/project-c/published)
 
 ## Features
 - Performance oriented design for reaching high speeds
